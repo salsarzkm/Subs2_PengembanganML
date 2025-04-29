@@ -17,7 +17,7 @@ This notebook performs image classification model training with steps:
 - Setting up a dataset from an image folder
 - Using `ImageDataGenerator` for data augmentation
 - Building a CNN model with Keras Sequential API
-- Training the model using the training set
+- Training the model 
 - Evaluate performance with accuracy metrics, confusion matrix, and classification report
 - Visualization of results and model performance
 
